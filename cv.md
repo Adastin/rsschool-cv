@@ -11,3 +11,17 @@
 * Groovy
 * Maven
 * SQL
+### Experience:
+#### WorkFusion Platform
+* Business Process troubleshooting and fixing processing issues
+	* Implementation errors
+	* Platform specific features 
+	* 3-rd party incompatibility issues
+* Performance analysis
+	* CT/BP/WS slowness,
+	* Slow query optimization,
+	* Application settings tunning  
+* Investigation of OOM issues
+	* Thread and heap dump analysis
+	* Client’s code review
+	* JVM tunning
