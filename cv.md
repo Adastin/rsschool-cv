@@ -25,3 +25,5 @@
 	* Thread and heap dump analysis
 	* Client’s code review
 	* JVM tunning
+### English: 
+* B1+. Participating in meetings with customers on daily basis. Keeping business correspondence.
